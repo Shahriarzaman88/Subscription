@@ -1,0 +1,13 @@
+.text-x-larger {
+    background-color: lightgray;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+.text-larger {
+    background-color: lightgray;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
