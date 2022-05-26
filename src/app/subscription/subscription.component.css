@@ -1,5 +1,14 @@
+
+.border {
+    padding-bottom: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+
 .text-x-larger {
     background-color: lightgray;
+    padding: 5px;
     font-size: x-large;
     font-weight: bolder;
     text-align: center;
@@ -7,6 +16,7 @@
 }
 .text-larger {
     background-color: lightgray;
+    padding: 5px;
     font-size: larger;
     font-weight: bold;
     text-align: center;
